@@ -1,0 +1,44 @@
+body {
+  margin: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+article {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 60%;
+}
+
+p { 
+font-family: 'Poppins', sans-serif;
+font-size:  12px;
+ }
+
+h1 {
+  font-family: 'Schibsted Grotesk', sans-serif;
+  font-size: 46px;
+}
+
+.story_image {
+  width: 25%;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+a {
+  color: black;
+}
+
+a:hover {
+  color: #717171;
+  text-decoration-color: #ffcb04;
+}
+
+.logo {
+  width:  15%;
+
+}

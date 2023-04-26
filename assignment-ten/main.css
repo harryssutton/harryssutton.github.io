@@ -1,0 +1,57 @@
+body {
+  margin: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+article {
+  margin-left: 20px;
+  margin-right: 20px;
+  width: 60%;
+}
+
+p { 
+font-family: 'Poppins', sans-serif;
+font-size:  12px;
+ }
+
+h1 {
+  font-family: 'Schibsted Grotesk', sans-serif;
+  font-size: 46px;
+}
+
+.story_image {
+align-items: center;
+  width: 25%;
+  float: left;
+  margin-right: 20px;
+}
+
+footer {
+  margin-top: 30px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+
+
+a {
+  color: black;
+  align-items: center ;
+}
+
+a:hover {
+  color: #717171;
+  align-items: center ;
+  text-decoration-color: #ffcb04;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  width: 25%;
+}
+
+.title {
+float: right;
+
+}

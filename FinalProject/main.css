@@ -1,0 +1,72 @@
+body {
+  background-color: darkblue;
+  margin: 10px;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+article {
+  margin-left: 10px;
+  margin-right: 10px;
+  width: 60%;
+}
+
+p { 
+font-family: 'Poppins', sans-serif;
+font-size:  14px;
+ }
+
+h1 {
+  font-family: 'Raleway', sans-serif;
+  font-size: 40px;
+  margin-top: 5px;
+}
+
+.story_image {
+  width: 25%;
+  float: left;
+  margin-right: 10px;
+}
+
+footer {
+  margin-top: 10px;
+  font-family: Basier, Arial, sans-serif;
+}
+
+
+img {
+width: 10%;
+float: left   ;
+
+}
+
+a {
+  color: black;
+  align-items: center ;
+}
+
+a:hover {
+  color: #717171;
+  align-items: center ;
+  text-decoration-color: #ffcb04;
+}
+
+.logo {
+  display: block;
+  margin: 0 auto;
+  width: 25%;
+}
+
+h2  {
+  font-family: 'Raleway', sans-serif;
+}
+
+.title {
+float: right;
+
+}
+
+.subheader {
+  font-family: 'Raleway', sans-serif;
+  font-size: 20px;
+}
